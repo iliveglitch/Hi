@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header { 
+    background-color: cadetblue;
+    border: 2px;
+    border-radius: 5px;
+}
+header a {
+    background-color: rgb(169, 230, 233);
+    border-radius: 5px;
+}
+header img {
+    margin: 5px;
+}
+main h1 {
+    color: coral;
+    background-color: rgb(198, 202, 205);
+    border: 2px;
+    border-radius: 5px;
+}
+footer {
+    background-color: rgb(222, 228, 241);
+}
+footer p {
+    background-color: #D3D3D3;
+    border: 2px;
+    border-radius: 5px;
+    border-color: black;
+}
+main p img {
+    background-color: chocolate;
+    border: 2px;
+    border-radius: 5px;
+    padding: 3px;
+}
+.wertyqw {
+    background-color: rgb(162, 199, 232);
+}
